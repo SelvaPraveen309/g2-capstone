@@ -1,0 +1,75 @@
+ .card { 
+     align-content: center; 
+     max-width: 1500px;
+    margin-left: 20px;
+    border-radius: 10px;
+    height: 60vh;
+    
+     }
+     .img{
+        margin: left 100px;
+        width: 500px;
+        height: 345px;
+     }
+     .card1{
+        margin-top: 4%;
+        /* max-width: 280px; */
+        margin-left: 20px;
+        border-radius: 10px;
+        height: 20vh;
+         float:left;
+       
+     }
+     .card2{
+        margin-top: 4%;
+        /* max-width: 280px; */
+        margin-left: 20px;
+        border-radius: 7px;
+        height: 20vh;
+        float:left;
+     }
+     .card3{
+        margin-top: 4%;
+        /* max-width: 280px; */
+        margin-left: 20px;
+        border-radius: 10px;
+        height: 20vh;
+        float:left;
+        box-shadow: darkgray;
+     }
+     .card4{
+        margin-top: 4%;
+        margin-left: 10%;
+        /* max-width: 280px; */
+        margin-left: 10px;
+        border-radius: 10px;
+        height: 20vh; 
+        float:left;
+      } 
+      .example-small-box, .example-large-box {
+    
+        display: flex;
+        align-items: right;
+        justify-content: right;
+        margin: 16px;
+        padding: 16px;
+        border-radius: 8px;
+      }
+      
+      .example-small-box {
+        height: 500px;
+        width: 700px;
+      }
+      
+      .example-large-box {
+        height: 500px;
+        width: 700px;
+      }
+      .tabs{
+        float: right; 
+        margin-top: 4%;
+        margin-right: 30%;
+      }
+      .table {
+        width: 100%;
+      }
